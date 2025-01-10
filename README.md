@@ -61,7 +61,7 @@ here is a demo,
 
 <img src="Screenshot/Screenshot (24).png" alt="workflow" width="70%">
 
-<img src="Screenshot/Screenshot (24)png" alt="workflow" width="70%">
+<img src="Screenshot/Screenshot (25)png" alt="workflow" width="70%">
 
 
 
