@@ -61,7 +61,7 @@ here is a demo,
 
 <img src="Screenshot/Screenshot (24).png" alt="workflow" width="70%">
 
-<img src="Screenshot/Screenshot (25)png" alt="workflow" width="70%">
+<img src="Screenshot/Screenshot (25).png" alt="workflow" width="70%">
 
 
 
@@ -87,7 +87,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/ItsParna/Movie-Recommender-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
